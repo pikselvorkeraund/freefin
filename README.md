@@ -1,4 +1,4 @@
-# FinLite
+# FreeFin
 
 Лёгкий трекер личных финансов (Kotlin + Jetpack Compose + Room + SQLCipher).
 
@@ -13,6 +13,6 @@
 ## Сборка
 
 GitHub Actions собирает 4 APK автоматически при пуше в `main`/`master`
-(артефакт `finlite-apks` в разделе Actions).
+(артефакт `freefin-apks` в разделе Actions).
 
 Локально: `./gradlew :app:assembleRelease`
